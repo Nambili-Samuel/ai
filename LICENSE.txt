@@ -1,38 +1,25 @@
- 
+# AI Research License
 
- => FREE HTML TEMPLATE LICENSE BY HTML Codex
+This source code is licensed under a Creative Commons Attribution 4.0 International License, which means you are not allowed to remove the author’s credit link/attribution link/backlink.
 
- All free HTML templates by HTML Codex are licensed under a Creative Commons Attribution 4.0 International License which means you are not allowed to remove the author’s credit link/attribution link/backlink.
+### You Are Not Allowed:
+1. Sell, resell, rent, lease or sub-license this source code.
+2. Download the entire documentation and its original source code without prior permission to the author.
 
- When you download or use our free HTML templates, it will attribute the following conditions.
+## Notes
+- This site features premium photos purchased from stock photo platforms and curated content from reputable institutions. Please ensure compliance with the original licensing terms where applicable.
+## Disclaimer
+This repository is dedicated to advancing research and experimentation in artificial intelligence (AI). All content, including code, data, and documentation, is provided for informational and educational purposes only.
 
+While we strive for accuracy and rigor, this repository is offered "as is," without any guarantees or warranties, explicit or implied. The use of the resources provided herein is at your own risk, and the repository maintainers or contributors are not liable for any direct or indirect consequences resulting from the application or misapplication of the information or tools provided.
 
- => YOU ARE ALLOWED
+Please ensure compliance with applicable laws, regulations, and ethical guidelines when using this repository. Be mindful of the potential societal impact and unintended consequences of AI research and deployment. By accessing or utilizing this repository, you agree to these terms.
 
-      1. You are allowed to use for your personal and commercial purposes.
+---
 
-      2. You are allowed to modify/customize however you like.
-
-      3. You are allowed to convert/port for use for any CMS.
-
-      4. You are allowed to share/distribute under the HTML Codex brand name.
-
-      5. You are allowed to put a screenshot or a link on your blog posts or any other websites.
-
-
- => YOU ARE NOT ALLOWED
-
-      1. You are not allowed to remove the author’s credit link/attribution link/backlink without purchasing Credit Removal License ( https://htmlcodex.com/credit-removal ).
-
-      2. You are not allowed to sell, resale, rent, lease, license, or sub-license.
-
-      3. You are not allowed to upload on your template websites or template collection websites or any other third party websites without our permission.
-
-
- => If the template contains premium stock photos which are only for demo purposes and not distributed with the template. You need to purchase them separately from the corresponding stock photo website. You are responsible for adhering to the original license of them if necessary.
-
-
- => This license can be terminated if you breach any of these conditions.
-
-
- => PURCHASE CREDIT REMOVAL LICENSE ( https://htmlcodex.com/credit-removal )
+### Footer or Attribution Section
+```html
+<footer>
+    <p>Designed by <a href="https://www.linkedin.com/in/nambilisamuel/" target="_blank">Dr. Nambili Samuel</a></p>
+    <p>Source Code: <a href="https://github.com/Nambili-Samuel" target="_blank">GitHub</a></p>
+</footer>
